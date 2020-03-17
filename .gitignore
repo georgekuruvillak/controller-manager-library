@@ -11,6 +11,7 @@
 /tmp/*
 /local/
 /dev
+/.godev
 
 *.coverprofile
 *.html
